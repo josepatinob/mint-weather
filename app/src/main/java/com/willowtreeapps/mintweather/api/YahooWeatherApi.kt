@@ -11,6 +11,7 @@ interface YahooWeatherApi {
         const val BASE_URL = "https://yahoo-weather5.p.rapidapi.com/"
     }
 
+    /* API KEY HAS BEEN REVOKED */
     @Headers(
         "x-rapidapi-host: yahoo-weather5.p.rapidapi.com",
         "x-rapidapi-key: 726c28372dmsh963eae85d778ccap1d628ajsnaa2049ec9ecf"
