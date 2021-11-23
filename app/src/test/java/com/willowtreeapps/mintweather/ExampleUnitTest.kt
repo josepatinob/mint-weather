@@ -1,4 +1,4 @@
-package com.example.mintweather
+package com.willowtreeapps.mintweather
 
 import org.junit.Test
 
